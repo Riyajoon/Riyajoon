@@ -1,5 +1,5 @@
 # Evara101
-# 💫 About Me:
+#  About Me:
 I am currently honing my skills in Data Analytics.<br>
 
 
